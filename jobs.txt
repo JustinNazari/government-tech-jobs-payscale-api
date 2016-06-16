@@ -199,6 +199,8 @@ LAMP (Linux, Apache, MySQL and                      (VoIP) administration skills
 
  Information Systems Security Manager                                   $122,250-$171,250         $129,750-$182,000        6.2%
 
+             Title                        2015                      2016            Change
+
  Software Development (g)
 
  Product Manager                   $101,750-$145,000         $105,750-$152,750        4.8%
