@@ -1,213 +1,213 @@
-grade,min,max,supplement,location,,
-5,39002,50701,0.38,"Huntsville, AL",,
-7,46562,60531,0.33,"Huntsville, AL",,
-9,55670,72366,0.30,"Huntsville, AL",,
-11,61137,79478,0.18,"Huntsville, AL",,
-5,39002,50701,0.38,"Phoenix, AZ",,
-7,46562,60531,0.33,"Phoenix, AZ",,
-9,55670,72366,0.30,"Phoenix, AZ",,
-11,61137,79478,0.18,"Phoenix, AZ",,
-5,39002,50701,0.38,"Tucson, AZ",,
-7,46562,60531,0.33,"Tucson, AZ",,
-9,55670,72366,0.30,"Tucson, AZ",,
-11,61137,79478,0.18,"Tucson, AZ",,
-5,40980,53273,0.45,"Los Angeles, CA",,
-7,49013,63717,0.40,"Los Angeles, CA",,
-9,57811,75149,0.35,"Los Angeles, CA",,
-5,42110,54743,0.49,"Oakland, CA",,
-7,50413,65537,0.44,"Oakland, CA",,
-9,59524,77376,0.39,"Oakland, CA",,
-5,39567,51436,0.40,"Sacramento, CA",,
-7,47262,61441,0.35,"Sacramento, CA",,
-9,55670,72366,0.30,"Sacramento, CA",,
-11,62173,80825,0.20,"Sacramento, CA",,
-5,39567,51436,0.40,"San Diego, CA",,
-7,47262,61441,0.35,"San Diego, CA",,
-9,55670,72366,0.30,"San Diego, CA",,
-11,62173,80825,0.20,"San Diego, CA",,
-5,42110,54743,0.49,"San Francisco, CA",,
-7,50413,65537,0.44,"San Francisco, CA",,
-9,59524,77376,0.39,"San Francisco, CA",,
-5,39002,50701,0.38,"Colorado Springs, CO",,
-7,46562,60531,0.33,"Colorado Springs, CO",,
-9,55670,72366,0.30,"Colorado Springs, CO",,
-11,61137,79478,0.18,"Colorado Springs, CO",,
-5,40415,52538,0.43,"Denver, CO",,
-7,48312,62807,0.38,"Denver, CO",,
-9,56955,74036,0.33,"Denver, CO",,
-11,63728,82845,0.23,"Denver, CO",,
-5,40415,52538,0.43,"Hartford, CT",,
-7,48312,62807,0.38,"Hartford, CT",,
-9,56955,74036,0.33,"Hartford, CT",,
-11,63728,82845,0.23,"Hartford, CT",,
-5,39567,51436,0.40,"Washington, DC",,
-7,47262,61441,0.35,"Washington, DC",,
-9,55670,72366,0.30,"Washington, DC",,
-11,62173,80825,0.20,"Washington, DC",,
-5,39002,50701,0.38,"Melbourne, FL",,
-7,46562,60531,0.33,"Melbourne, FL",,
-9,55670,72366,0.30,"Melbourne, FL",,
-11,61137,79478,0.18,"Melbourne, FL",,
-5,39567,51436,0.40,"Miami, FL",,
-7,47262,61441,0.35,"Miami, FL",,
-9,55670,72366,0.30,"Miami, FL",,
-11,62173,80825,0.20,"Miami, FL",,
-5,39002,50701,0.38,"Atlanta, GA",,
-7,46562,60531,0.33,"Atlanta, GA",,
-9,55670,72366,0.30,"Atlanta, GA",,
-11,61137,79478,0.18,"Atlanta, GA",,
-5,41492,53938,0.47,"Honolulu, HI",,
-7,51397,66817,0.47,"Honolulu, HI",,
-9,62869,81723,0.47,"Honolulu, HI",,
-11,69328,90126,0.34,"Honolulu, HI",,
-12,78750,102375,0.27,"Honolulu, HI",,
-5,40415,52538,0.43,"Chicago, IL",,
-7,48312,62807,0.38,"Chicago, IL",,
-9,56955,74036,0.33,"Chicago, IL",,
-11,63728,82845,0.23,"Chicago, IL",,
-5,40415,52538,0.43,"Naperville, IL",,
-7,48312,62807,0.38,"Naperville, IL",,
-9,56955,74036,0.33,"Naperville, IL",,
-11,63728,82845,0.23,"Naperville, IL",,
-5,39002,50701,0.38,"Indianapolis, IN",,
-7,46562,60531,0.33,"Indianapolis, IN",,
-9,55670,72366,0.30,"Indianapolis, IN",,
-11,61137,79478,0.18,"Indianapolis, IN",,
-5,39002,50701,0.38,"Davenport, IA",,
-7,46562,60531,0.33,"Davenport, IA",,
-9,55670,72366,0.30,"Davenport, IA",,
-11,61137,79478,0.18,"Davenport, IA",,
-5,39002,50701,0.38,"Overland Park, KS",,
-7,46562,60531,0.33,"Overland Park, KS",,
-9,55670,72366,0.30,"Overland Park, KS",,
-11,61137,79478,0.18,"Overland Park, KS",,
-5,39567,51436,0.40,"Baltimore, MD",,
-7,47262,61441,0.35,"Baltimore, MD",,
-9,55670,72366,0.30,"Baltimore, MD",,
-11,62173,80825,0.20,"Baltimore, MD",,
-5,40415,52538,0.43,"Boston, MA",,
-7,48312,62807,0.38,"Boston, MA",,
-9,56955,74036,0.33,"Boston, MA",,
-11,63728,82845,0.23,"Boston, MA",,
-5,40415,52538,0.43,"Detroit, MI",,
-7,48312,62807,0.38,"Detroit, MI",,
-9,56955,74036,0.33,"Detroit, MI",,
-11,63728,82845,0.23,"Detroit, MI",,
-5,40415,52538,0.43,"Ann Arbor, MI",,
-7,48312,62807,0.38,"Ann Arbor, MI",,
-9,56955,74036,0.33,"Ann Arbor, MI",,
-11,63728,82845,0.23,"Ann Arbor, MI",,
-5,39567,51436,0.40,"Minneapolis, MN",,
-7,47262,61441,0.35,"Minneapolis, MN",,
-9,55670,72366,0.30,"Minneapolis, MN",,
-11,62173,80825,0.20,"Minneapolis, MN",,
-5,39567,51436,0.40,"St. Paul, MN",,
-7,47262,61441,0.35,"St. Paul, MN",,
-9,55670,72366,0.30,"St. Paul, MN",,
-11,62173,80825,0.20,"St. Paul, MN",,
-5,39002,50701,0.38,"Kansas City, MO",,
-7,46562,60531,0.33,"Kansas City, MO",,
-9,55670,72366,0.30,"Kansas City, MO",,
-11,61137,79478,0.18,"Kansas City, MO",,
-5,39002,50701,0.38,"St. Louis, MO",,
-7,46562,60531,0.33,"St. Louis, MO",,
-9,55670,72366,0.30,"St. Louis, MO",,
-11,61137,79478,0.18,"St. Louis, MO",,
-5,39002,50701,0.38,"Las Vegas, NV",,
-7,46562,60531,0.33,"Las Vegas, NV",,
-9,55670,72366,0.30,"Las Vegas, NV",,
-11,61137,79478,0.18,"Las Vegas, NV",,
-5,39002,50701,0.38,"Albuquerque, NM",,
-7,46562,60531,0.33,"Albuquerque, NM",,
-9,55670,72366,0.30,"Albuquerque, NM",,
-11,61137,79478,0.18,"Albuquerque, NM",,
-5,39002,50701,0.38,"Albany, NY",,
-7,46562,60531,0.33,"Albany, NY",,
-9,55670,72366,0.30,"Albany, NY",,
-11,61137,79478,0.18,"Albany, NY",,
-5,39002,50701,0.38,"Buffalo, NY",,
-7,46562,60531,0.33,"Buffalo, NY",,
-9,55670,72366,0.30,"Buffalo, NY",,
-11,61137,79478,0.18,"Buffalo, NY",,
-5,40980,53273,0.45,"New York, NY",,
-7,49013,63717,0.40,"New York, NY",,
-9,57811,75149,0.35,"New York, NY",,
-5,39002,50701,0.38,"Charlotte, NC",,
-7,46562,60531,0.33,"Charlotte, NC",,
-9,55670,72366,0.30,"Charlotte, NC",,
-11,61137,79478,0.18,"Charlotte, NC",,
-5,39002,50701,0.38,"Raleigh, NC",,
-7,46562,60531,0.33,"Raleigh, NC",,
-9,55670,72366,0.30,"Raleigh, NC",,
-11,61137,79478,0.18,"Raleigh, NC",,
-5,39002,50701,0.38,"Akron, OH",,
-7,46562,60531,0.33,"Akron, OH",,
-9,55670,72366,0.30,"Akron, OH",,
-11,61137,79478,0.18,"Akron, OH",,
-5,39002,50701,0.38,"Canton, OH",,
-7,46562,60531,0.33,"Canton, OH",,
-9,55670,72366,0.30,"Canton, OH",,
-11,61137,79478,0.18,"Canton, OH",,
-5,39567,51436,0.40,"Cincinnati, OH",,
-7,47262,61441,0.35,"Cincinnati, OH",,
-9,55670,72366,0.30,"Cincinnati, OH",,
-11,62173,80825,0.20,"Cincinnati, OH",,
-5,39002,50701,0.38,"Cleveland, OH",,
-7,46562,60531,0.33,"Cleveland, OH",,
-9,55670,72366,0.30,"Cleveland, OH",,
-11,61137,79478,0.18,"Cleveland, OH",,
-5,39567,51436,0.40,"Columbus, OH",,
-7,47262,61441,0.35,"Columbus, OH",,
-9,55670,72366,0.30,"Columbus, OH",,
-11,62173,80825,0.20,"Columbus, OH",,
-5,39002,50701,0.38,"Dayton, OH",,
-7,46562,60531,0.33,"Dayton, OH",,
-9,55670,72366,0.30,"Dayton, OH",,
-11,61137,79478,0.18,"Dayton, OH",,
-5,39567,51436,0.40,"Portland, OR",,
-7,47262,61441,0.35,"Portland, OR",,
-9,55670,72366,0.30,"Portland, OR",,
-11,62173,80825,0.20,"Portland, OR",,
-5,39002,50701,0.38,"Harrisburg, PA",,
-7,46562,60531,0.33,"Harrisburg, PA",,
-9,55670,72366,0.30,"Harrisburg, PA",,
-11,61137,79478,0.18,"Harrisburg, PA",,
-5,39567,51436,0.40,"Philadelphia, PA",,
-7,47262,61441,0.35,"Philadelphia, PA",,
-9,55670,72366,0.30,"Philadelphia, PA",,
-11,62173,80825,0.20,"Philadelphia, PA",,
-5,39002,50701,0.38,"Pittsburgh, PA",,
-7,46562,60531,0.33,"Pittsburgh, PA",,
-9,55670,72366,0.30,"Pittsburgh, PA",,
-11,61137,79478,0.18,"Pittsburgh, PA",,
-5,40415,52538,0.43,"Providence, RI",,
-7,48312,62807,0.38,"Providence, RI",,
-9,56955,74036,0.33,"Providence, RI",,
-11,63728,82845,0.23,"Providence, RI",,
-5,39002,50701,0.38,"Austin, TX",,
-7,46562,60531,0.33,"Austin, TX",,
-9,55670,72366,0.30,"Austin, TX",,
-11,61137,79478,0.18,"Austin, TX",,
-5,39567,51436,0.40,"Dallas, TX",,
-7,47262,61441,0.35,"Dallas, TX",,
-9,55670,72366,0.30,"Dallas, TX",,
-11,62173,80825,0.20,"Dallas, TX",,
-5,39567,51436,0.40,"Fort Worth, TX",,
-7,47262,61441,0.35,"Fort Worth, TX",,
-9,55670,72366,0.30,"Fort Worth, TX",,
-11,62173,80825,0.20,"Fort Worth, TX",,
-5,40980,53273,0.45,"Houston, TX",,
-7,49013,63717,0.40,"Houston, TX",,
-9,57811,75149,0.35,"Houston, TX",,
-5,39002,50701,0.38,"Richmond, VA",,
-7,46562,60531,0.33,"Richmond, VA",,
-9,55670,72366,0.30,"Richmond, VA",,
-11,61137,79478,0.18,"Richmond, VA",,
-5,39567,51436,0.40,"Seattle, WA",,
-7,47262,61441,0.35,"Seattle, WA",,
-9,55670,72366,0.30,"Seattle, WA",,
-11,62173,80825,0.20,"Seattle, WA",,
-5,39002,50701,0.38,"Milwaukee, WI",,
-7,46562,60531,0.33,"Milwaukee, WI",,
-9,55670,72366,0.30,"Milwaukee, WI",,
-11,61137,79478,0.18,"Milwaukee, WI",,
+grade,min,max,supplement,location
+5,39002,50701,0.38,"Huntsville, AL"
+7,46562,60531,0.33,"Huntsville, AL"
+9,55670,72366,0.30,"Huntsville, AL"
+11,61137,79478,0.18,"Huntsville, AL"
+5,39002,50701,0.38,"Phoenix, AZ"
+7,46562,60531,0.33,"Phoenix, AZ"
+9,55670,72366,0.30,"Phoenix, AZ"
+11,61137,79478,0.18,"Phoenix, AZ"
+5,39002,50701,0.38,"Tucson, AZ"
+7,46562,60531,0.33,"Tucson, AZ"
+9,55670,72366,0.30,"Tucson, AZ"
+11,61137,79478,0.18,"Tucson, AZ"
+5,40980,53273,0.45,"Los Angeles, CA"
+7,49013,63717,0.40,"Los Angeles, CA"
+9,57811,75149,0.35,"Los Angeles, CA"
+5,42110,54743,0.49,"Oakland, CA"
+7,50413,65537,0.44,"Oakland, CA"
+9,59524,77376,0.39,"Oakland, CA"
+5,39567,51436,0.40,"Sacramento, CA"
+7,47262,61441,0.35,"Sacramento, CA"
+9,55670,72366,0.30,"Sacramento, CA"
+11,62173,80825,0.20,"Sacramento, CA"
+5,39567,51436,0.40,"San Diego, CA"
+7,47262,61441,0.35,"San Diego, CA"
+9,55670,72366,0.30,"San Diego, CA"
+11,62173,80825,0.20,"San Diego, CA"
+5,42110,54743,0.49,"San Francisco, CA"
+7,50413,65537,0.44,"San Francisco, CA"
+9,59524,77376,0.39,"San Francisco, CA"
+5,39002,50701,0.38,"Colorado Springs, CO"
+7,46562,60531,0.33,"Colorado Springs, CO"
+9,55670,72366,0.30,"Colorado Springs, CO"
+11,61137,79478,0.18,"Colorado Springs, CO"
+5,40415,52538,0.43,"Denver, CO"
+7,48312,62807,0.38,"Denver, CO"
+9,56955,74036,0.33,"Denver, CO"
+11,63728,82845,0.23,"Denver, CO"
+5,40415,52538,0.43,"Hartford, CT"
+7,48312,62807,0.38,"Hartford, CT"
+9,56955,74036,0.33,"Hartford, CT"
+11,63728,82845,0.23,"Hartford, CT"
+5,39567,51436,0.40,"Washington, DC"
+7,47262,61441,0.35,"Washington, DC"
+9,55670,72366,0.30,"Washington, DC"
+11,62173,80825,0.20,"Washington, DC"
+5,39002,50701,0.38,"Melbourne, FL"
+7,46562,60531,0.33,"Melbourne, FL"
+9,55670,72366,0.30,"Melbourne, FL"
+11,61137,79478,0.18,"Melbourne, FL"
+5,39567,51436,0.40,"Miami, FL"
+7,47262,61441,0.35,"Miami, FL"
+9,55670,72366,0.30,"Miami, FL"
+11,62173,80825,0.20,"Miami, FL"
+5,39002,50701,0.38,"Atlanta, GA"
+7,46562,60531,0.33,"Atlanta, GA"
+9,55670,72366,0.30,"Atlanta, GA"
+11,61137,79478,0.18,"Atlanta, GA"
+5,41492,53938,0.47,"Honolulu, HI"
+7,51397,66817,0.47,"Honolulu, HI"
+9,62869,81723,0.47,"Honolulu, HI"
+11,69328,90126,0.34,"Honolulu, HI"
+12,78750,102375,0.27,"Honolulu, HI"
+5,40415,52538,0.43,"Chicago, IL"
+7,48312,62807,0.38,"Chicago, IL"
+9,56955,74036,0.33,"Chicago, IL"
+11,63728,82845,0.23,"Chicago, IL"
+5,40415,52538,0.43,"Naperville, IL"
+7,48312,62807,0.38,"Naperville, IL"
+9,56955,74036,0.33,"Naperville, IL"
+11,63728,82845,0.23,"Naperville, IL"
+5,39002,50701,0.38,"Indianapolis, IN"
+7,46562,60531,0.33,"Indianapolis, IN"
+9,55670,72366,0.30,"Indianapolis, IN"
+11,61137,79478,0.18,"Indianapolis, IN"
+5,39002,50701,0.38,"Davenport, IA"
+7,46562,60531,0.33,"Davenport, IA"
+9,55670,72366,0.30,"Davenport, IA"
+11,61137,79478,0.18,"Davenport, IA"
+5,39002,50701,0.38,"Overland Park, KS"
+7,46562,60531,0.33,"Overland Park, KS"
+9,55670,72366,0.30,"Overland Park, KS"
+11,61137,79478,0.18,"Overland Park, KS"
+5,39567,51436,0.40,"Baltimore, MD"
+7,47262,61441,0.35,"Baltimore, MD"
+9,55670,72366,0.30,"Baltimore, MD"
+11,62173,80825,0.20,"Baltimore, MD"
+5,40415,52538,0.43,"Boston, MA"
+7,48312,62807,0.38,"Boston, MA"
+9,56955,74036,0.33,"Boston, MA"
+11,63728,82845,0.23,"Boston, MA"
+5,40415,52538,0.43,"Detroit, MI"
+7,48312,62807,0.38,"Detroit, MI"
+9,56955,74036,0.33,"Detroit, MI"
+11,63728,82845,0.23,"Detroit, MI"
+5,40415,52538,0.43,"Ann Arbor, MI"
+7,48312,62807,0.38,"Ann Arbor, MI"
+9,56955,74036,0.33,"Ann Arbor, MI"
+11,63728,82845,0.23,"Ann Arbor, MI"
+5,39567,51436,0.40,"Minneapolis, MN"
+7,47262,61441,0.35,"Minneapolis, MN"
+9,55670,72366,0.30,"Minneapolis, MN"
+11,62173,80825,0.20,"Minneapolis, MN"
+5,39567,51436,0.40,"St. Paul, MN"
+7,47262,61441,0.35,"St. Paul, MN"
+9,55670,72366,0.30,"St. Paul, MN"
+11,62173,80825,0.20,"St. Paul, MN"
+5,39002,50701,0.38,"Kansas City, MO"
+7,46562,60531,0.33,"Kansas City, MO"
+9,55670,72366,0.30,"Kansas City, MO"
+11,61137,79478,0.18,"Kansas City, MO"
+5,39002,50701,0.38,"St. Louis, MO"
+7,46562,60531,0.33,"St. Louis, MO"
+9,55670,72366,0.30,"St. Louis, MO"
+11,61137,79478,0.18,"St. Louis, MO"
+5,39002,50701,0.38,"Las Vegas, NV"
+7,46562,60531,0.33,"Las Vegas, NV"
+9,55670,72366,0.30,"Las Vegas, NV"
+11,61137,79478,0.18,"Las Vegas, NV"
+5,39002,50701,0.38,"Albuquerque, NM"
+7,46562,60531,0.33,"Albuquerque, NM"
+9,55670,72366,0.30,"Albuquerque, NM"
+11,61137,79478,0.18,"Albuquerque, NM"
+5,39002,50701,0.38,"Albany, NY"
+7,46562,60531,0.33,"Albany, NY"
+9,55670,72366,0.30,"Albany, NY"
+11,61137,79478,0.18,"Albany, NY"
+5,39002,50701,0.38,"Buffalo, NY"
+7,46562,60531,0.33,"Buffalo, NY"
+9,55670,72366,0.30,"Buffalo, NY"
+11,61137,79478,0.18,"Buffalo, NY"
+5,40980,53273,0.45,"New York, NY"
+7,49013,63717,0.40,"New York, NY"
+9,57811,75149,0.35,"New York, NY"
+5,39002,50701,0.38,"Charlotte, NC"
+7,46562,60531,0.33,"Charlotte, NC"
+9,55670,72366,0.30,"Charlotte, NC"
+11,61137,79478,0.18,"Charlotte, NC"
+5,39002,50701,0.38,"Raleigh, NC"
+7,46562,60531,0.33,"Raleigh, NC"
+9,55670,72366,0.30,"Raleigh, NC"
+11,61137,79478,0.18,"Raleigh, NC"
+5,39002,50701,0.38,"Akron, OH"
+7,46562,60531,0.33,"Akron, OH"
+9,55670,72366,0.30,"Akron, OH"
+11,61137,79478,0.18,"Akron, OH"
+5,39002,50701,0.38,"Canton, OH"
+7,46562,60531,0.33,"Canton, OH"
+9,55670,72366,0.30,"Canton, OH"
+11,61137,79478,0.18,"Canton, OH"
+5,39567,51436,0.40,"Cincinnati, OH"
+7,47262,61441,0.35,"Cincinnati, OH"
+9,55670,72366,0.30,"Cincinnati, OH"
+11,62173,80825,0.20,"Cincinnati, OH"
+5,39002,50701,0.38,"Cleveland, OH"
+7,46562,60531,0.33,"Cleveland, OH"
+9,55670,72366,0.30,"Cleveland, OH"
+11,61137,79478,0.18,"Cleveland, OH"
+5,39567,51436,0.40,"Columbus, OH"
+7,47262,61441,0.35,"Columbus, OH"
+9,55670,72366,0.30,"Columbus, OH"
+11,62173,80825,0.20,"Columbus, OH"
+5,39002,50701,0.38,"Dayton, OH"
+7,46562,60531,0.33,"Dayton, OH"
+9,55670,72366,0.30,"Dayton, OH"
+11,61137,79478,0.18,"Dayton, OH"
+5,39567,51436,0.40,"Portland, OR"
+7,47262,61441,0.35,"Portland, OR"
+9,55670,72366,0.30,"Portland, OR"
+11,62173,80825,0.20,"Portland, OR"
+5,39002,50701,0.38,"Harrisburg, PA"
+7,46562,60531,0.33,"Harrisburg, PA"
+9,55670,72366,0.30,"Harrisburg, PA"
+11,61137,79478,0.18,"Harrisburg, PA"
+5,39567,51436,0.40,"Philadelphia, PA"
+7,47262,61441,0.35,"Philadelphia, PA"
+9,55670,72366,0.30,"Philadelphia, PA"
+11,62173,80825,0.20,"Philadelphia, PA"
+5,39002,50701,0.38,"Pittsburgh, PA"
+7,46562,60531,0.33,"Pittsburgh, PA"
+9,55670,72366,0.30,"Pittsburgh, PA"
+11,61137,79478,0.18,"Pittsburgh, PA"
+5,40415,52538,0.43,"Providence, RI"
+7,48312,62807,0.38,"Providence, RI"
+9,56955,74036,0.33,"Providence, RI"
+11,63728,82845,0.23,"Providence, RI"
+5,39002,50701,0.38,"Austin, TX"
+7,46562,60531,0.33,"Austin, TX"
+9,55670,72366,0.30,"Austin, TX"
+11,61137,79478,0.18,"Austin, TX"
+5,39567,51436,0.40,"Dallas, TX"
+7,47262,61441,0.35,"Dallas, TX"
+9,55670,72366,0.30,"Dallas, TX"
+11,62173,80825,0.20,"Dallas, TX"
+5,39567,51436,0.40,"Fort Worth, TX"
+7,47262,61441,0.35,"Fort Worth, TX"
+9,55670,72366,0.30,"Fort Worth, TX"
+11,62173,80825,0.20,"Fort Worth, TX"
+5,40980,53273,0.45,"Houston, TX"
+7,49013,63717,0.40,"Houston, TX"
+9,57811,75149,0.35,"Houston, TX"
+5,39002,50701,0.38,"Richmond, VA"
+7,46562,60531,0.33,"Richmond, VA"
+9,55670,72366,0.30,"Richmond, VA"
+11,61137,79478,0.18,"Richmond, VA"
+5,39567,51436,0.40,"Seattle, WA"
+7,47262,61441,0.35,"Seattle, WA"
+9,55670,72366,0.30,"Seattle, WA"
+11,62173,80825,0.20,"Seattle, WA"
+5,39002,50701,0.38,"Milwaukee, WI"
+7,46562,60531,0.33,"Milwaukee, WI"
+9,55670,72366,0.30,"Milwaukee, WI"
+11,61137,79478,0.18,"Milwaukee, WI"
