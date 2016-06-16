@@ -10,14 +10,14 @@ lines = IO.readlines('jobs.txt')
       arr = line.split(" ")
       name = []
       arr.each do |phrase|
-        if !phrase.include?("$") && !phrase.include?(".") && !phrase.include?("(")
+        if !phrase.include?("$") && !phrase.include?(".") && !phrase.include?("(") && !phrase.include?(",")
           name.push(phrase)
         end
+      end
       pay_range = arr[arr.length - 2]
       min = pay_range.split("-").first.tr("$","").tr(",","").to_i
       max = pay_range.split("-").last.tr("$","").tr(",","").to_i
       PrivateSectorJob.create(title: name.join(" "), min: min, max: max, section_id: Section.last.id)
-    end
   end
 end
 
