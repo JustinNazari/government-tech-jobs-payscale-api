@@ -1,0 +1,2 @@
+class PrivateSectorJob < ApplicationRecord
+end
