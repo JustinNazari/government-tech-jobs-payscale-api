@@ -9,6 +9,7 @@ gem 'listen', '~> 3.0'
 
 gem 'pg'
 
+gem 'rails-pry'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'

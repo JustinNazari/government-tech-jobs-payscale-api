@@ -1,10 +1,4 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+require 'csv'
 
 lines = IO.readlines('jobs.txt')
 lines.each_with_index do |line, index|
@@ -24,4 +18,10 @@ lines.each_with_index do |line, index|
     PrivateSectorJob.create(title: name.join(" "), min: min, max: max, section_id: Section.last.id)
   end
 end
+end
+
+csv_text = File.read('Locations.csv')
+csv = CSV.parse(csv_text, :headers => true)
+csv.each do |row|
+  Location.create!(row.to_hash)
 end
