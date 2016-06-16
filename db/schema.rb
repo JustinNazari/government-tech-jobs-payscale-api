@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160616033401) do
+ActiveRecord::Schema.define(version: 20160616040808) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -35,8 +35,18 @@ ActiveRecord::Schema.define(version: 20160616033401) do
     t.decimal "max"
   end
 
+  create_table "public_sector_special_pay_jobs", force: :cascade do |t|
+    t.integer "grade"
+    t.decimal "min"
+    t.decimal "max"
+    t.decimal "supplement"
+    t.integer "location_id"
+    t.index ["location_id"], name: "index_public_sector_special_pay_jobs_on_location_id", using: :btree
+  end
+
   create_table "sections", force: :cascade do |t|
     t.string "name"
   end
 
+  add_foreign_key "public_sector_special_pay_jobs", "locations"
 end

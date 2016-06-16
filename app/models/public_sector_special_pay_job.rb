@@ -1,0 +1,2 @@
+class PublicSectorSpecialPayJob < ApplicationRecord
+end

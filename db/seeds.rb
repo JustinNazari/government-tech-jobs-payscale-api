@@ -31,3 +31,5 @@ csv_GS = CSV.parse(csv_text_GS, :headers => true)
 csv_GS.each do |row|
   PublicSectorJob.create!(row.to_hash)
 end
+
+# Location.find_by(city: "Boston, MA").id == location_id
