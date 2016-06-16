@@ -1,0 +1,238 @@
+
+      ALABAMA
+      Birmingham ...........   95.0
+      Huntsville ............. 93.0
+      Mobile. . . . . . . . .  86.0
+
+      ARIZONA
+      Phoenix .............   112.0
+      Tucson ..............   103.5
+
+      ARKANSAS
+      Fayetteville ............95.0
+
+      Little Rock ............ 95.0
+      CALIFORNIA
+      Fresno ...............   90.0
+      Irvine ..............   128.0
+      Los Angeles ..........  128.0
+      Oakland ............    127.0
+      Ontario .............   117.0
+
+      Sacramento ..........   102.0
+      San Diego ...........   123.0
+      San Francisco ........  138.0
+      San Jose ............   135.0
+      Stockton .............    85.0
+      Santa Rosa ..........   118.1
+      Santa Barbara ........  127.0
+
+      COLORADO
+
+      Boulder .............   116.3
+      Colorado Springs. . . . . . . 92.3
+      Denver .............    104.8
+      Fort Collins ...........  95.0
+      Greeley ..............    86.0
+      Loveland .............    92.0
+      Pueblo. . . . . . . . . . . . . . . 80.0
+
+      CONNECTICUT
+      Hartford ............   116.5
+      New Haven ..........    112.0
+      Stamford ............   131.0
+
+      DELAWARE
+      Wilmington ..........   105.0
+      DISTRICT OF COLUMBIA
+      Washington ..........   133.0
+
+     FLORIDA
+     Fort Myers ............    90.0
+     Jacksonville ...........   95.0
+     Melbourne ............     90.5
+     Miami/Fort Lauderdale .. 107.0
+     Orlando .............      99.5
+     St. Petersburg. . . . . . . . . . 96.5
+
+     Tampa ...............      98.0
+     West Palm Beach ......   100.5
+     GEORGIA
+     Atlanta .............    106.5
+     Macon ..............       84.0
+
+     Savannah ............      84.0
+     HAWAII
+     Honolulu ............    105.0
+
+     IDAHO
+     Boise ................     86.1
+     ILLINOIS
+     Chicago ............     123.0
+     Naperville ...........   112.0
+
+     Rockford .............     83.0
+     Springfield ............   91.0
+     INDIANA
+     Fort Wayne ...........     82.0
+     Indianapolis ..........    96.0
+
+     IOWA
+     Cedar Rapids .........     94.0
+     Davenport ............     95.0
+     Des Moines ..........    100.0
+     Sioux City ............    83.0
+     Waterloo/Cedar Falls ....  87.0
+
+     KANSAS
+     Overland Park .........    99.2
+     KENTUCKY
+
+     Lexington ............     91.5
+     Louisville .............   92.0
+     LOUISIANA
+     Baton Rouge ..........     99.0
+     New Orleans ..........     99.0
+
+     MAINE
+     Portland .............     95.0
+
+     MARYLAND
+     Baltimore ...........    103.0
+
+     MASSACHUSETTS
+     Boston ..............    133.0
+     Springfield ...........  104.0
+
+     MICHIGAN
+
+     Ann Arbor ...........    101.5
+     Detroit ..............   100.0
+     Grand Rapids .........     85.5
+     Lansing ..............     85.0
+
+     MINNESOTA
+
+     Bloomington .........    105.5
+     Duluth ...............     79.6
+     Minneapolis. . . . . . . . . . 106.0
+     Rochester ...........    100.5
+     St. Cloud .............    82.0
+     St. Paul .............   102.0
+
+     MISSOURI
+
+     Kansas City ...........    99.2
+     St. Joseph ............    91.0
+     St. Louis ............   100.0
+
+     NEBRASKA
+
+     Lincoln ..............     86.0
+     Omaha ..............       96.0
+
+     NEVADA
+
+     Las Vegas ............     97.0
+     Reno ................      98.0
+
+     NEW HAMPSHIRE
+
+     Manchester/Nashua. . . . 112.0
+
+     NEW JERSEY
+     Mount Laurel .........   115.0
+     Paramus ............     130.0
+     Princeton ............   125.0
+     Woodbridge .........     126.5
+
+     NEW MEXICO
+     Albuquerque ..........     91.5
+
+     NEW YORK
+     Albany ..............      97.0
+     Buffalo ..............     95.0
+     Long Island ..........   120.0
+     New York ...........     140.0
+     Rochester ............     91.7
+     Syracuse .............     90.3
+
+     NORTH CAROLINA
+     Charlotte ............   101.5
+     Greensboro ..........    100.0
+     Raleigh .............    104.0
+
+     OHIO
+     Akron ...............      89.0
+     Canton ..............      82.0
+     Cincinnati ............    97.5
+     Cleveland ............     96.0
+     Columbus ............      97.5
+
+     Dayton ..............      87.0
+     Toledo ...............     84.5
+     Youngstown ...........     76.0
+     OKLAHOMA
+     Oklahoma City ........     93.0
+
+     Tulsa ................     93.0
+     OREGON
+     Portland ............    106.5
+
+     PENNSYLVANIA
+     Harrisburg ............    95.0
+     Philadelphia .........   115.0
+     Pittsburgh ............    98.0
+     RHODE ISLAND
+
+     Providence ............    97.0
+
+     SOUTH CAROLINA
+
+     Charleston ...........    93.5
+     Columbia ............     93.5
+     Greenville ............   92.0
+
+     TENNESSEE
+     Chattanooga ..........    89.0
+     Cool Springs ..........   99.0
+     Knoxville .............   89.0
+     Memphis .............     95.0
+     Nashville .............   99.5
+
+     TEXAS
+
+     Austin ..............    107.0
+     Dallas ..............    108.5
+     El Paso ..............    72.0
+     Fort Worth ...........   107.5
+     Houston ............     107.5
+     Midland/Odessa ......    115.0
+     San Antonio. . . . . . . . . . 100.0
+
+     UTAH
+     Salt Lake City ......... 101.0
+
+     VIRGINIA
+
+     Norfolk/Hampton Roads .. 96.0
+     Richmond ............     98.0
+     Tysons Corner ........   132.0
+
+     WASHINGTON
+
+     Seattle ..............   118.9
+     Spokane .............     82.0
+
+     WISCONSIN
+     Appleton .............    85.0
+     Green Bay ............    86.5
+     Madison .............     98.5
+     Milwaukee ...........    101.
+     Waukesha ............     99.00
+
+
+Source: U.S. Department of Labor’s Bureau of Labor Statistics and Rob▯ert Half Technology. City
+index figures are reflective of all industries and are not specific to the information technology field.
+Note: Please contact a Robert Half Technology account executive for salary information regarding
+cities not listed in the guide.
