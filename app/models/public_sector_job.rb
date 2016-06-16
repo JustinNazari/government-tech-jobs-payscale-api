@@ -1,0 +1,2 @@
+class PublicSectorJob < ApplicationRecord
+end
