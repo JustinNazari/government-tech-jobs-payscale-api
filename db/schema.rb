@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160616040808) do
+ActiveRecord::Schema.define(version: 20160616152613) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -40,7 +40,7 @@ ActiveRecord::Schema.define(version: 20160616040808) do
     t.integer "grade"
     t.decimal "min"
     t.decimal "max"
-    t.decimal "supplement"
+    t.decimal "supplement_coefficient"
     t.integer "location_id"
     t.index ["location_id"], name: "index_public_sector_special_pay_jobs_on_location_id", using: :btree
   end
