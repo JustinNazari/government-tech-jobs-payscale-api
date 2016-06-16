@@ -25,3 +25,9 @@ csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|
   Location.create!(row.to_hash)
 end
+
+csv_text_GS = File.read('GS2016.csv')
+csv_GS = CSV.parse(csv_text_GS, :headers => true)
+csv_GS.each do |row|
+  PublicSectorJob.create!(row.to_hash)
+end
