@@ -1,0 +1,255 @@
+             Title                       2015                     2016            Change
+
+ Administration
+
+ Chief Information Officer (CIO)   $157,000-$262,500       $172,000-$268,250        4.9%
+
+ Chief Technology Officer (CTO)    $137,500-$220,250       $147,500-$229,000        5.2%
+
+ Chief Security Officer (CSO)      $134,250-$204,750       $140,250-$222,500        7.0%
+ Vice President of Information Technology                        $138,000-$210,250       $141,000-$225,000        5.1%
+
+ Technology Director               $118,750-$174,000       $122,750-$185,000        5.1%
+
+ Information Technology Manager    $101,750-$150,750       $105,750-$159,000        4.9%
+
+ Title                       2015                     2016            Change
+
+ Applications Development (a)
+
+ Manager                           $103,250-$150,750       $105,750-$160,500        4.8%
+ Project Manager                   $ 91,250-$139,250       $ 95,250-$146,500        4.9%
+
+ Systems Analyst                   $ 79,500-$114,500       $ 81,750-$121,000        4.5%
+
+ Applications Architect            $115,750-$159,500       $121,250-$171,750        6.4%
+ Business Systems Analyst          $ 79,250-$116,500       $ 84,000-$122,000        5.2%
+
+ CRM Business Analyst              $ 84,500-$116,750       $ 87,500-$126,000        6.1%
+
+ CRM Technical Developer           $ 93,500-$129,250       $ 98,500-$137,750        6.1%
+
+ Developer/Programmer Analyst      $ 74,250-$129,000       $ 80,000-$137,000        6.8%
+ ERP Business Analyst              $ 87,500-$124,500       $ 92,500-$132,000        5.9%
+
+ ERP Technical/Functional Analyst  $ 94,750-$132,000       $ 98,000-$140,750        5.3%
+
+ ERP Technical Developer           $ 99,750-$136,750       $100,750-$148,500        5.4%
+ Lead Applications Developer       $106,250-$148,250       $110,750-$160,750        6.7%
+
+ Mobile Applications Developer     $107,500-$161,500       $115,250-$175,750        8.2%
+
+ Technical Writer                  $ 55,000-$ 85,250       $ 55,500-$ 87,250        1.8%
+
+
+
+(a)Add the percentage below, based on national   Java development sk....................9%........
+averages, to IT salaries for the following skills:ava EE/J2EE development s.............8%....
+                                                 LAMP (Linux, Apache, MySQL and
+AJAX (Asynchronous JavaScript and XML)            Perl/PHP/Python) skills...............8%........
+  development ski.......................6%.........
+Business Objects sk.....................6%........NET development ski...................8%........
+C# development skil.....................8%........HP development ski....................8%........
+C++ development skill...................5%.......SAP development ski....................6%.........
+                                                 SharePoint sk..........................9%...........
+Hyperion ski............................6%...........
+
+                                                                                   %
+             Title                      2015                    2016            Change
+
+ Consulting & Systems Integration
+
+ Director                        $119,750-$178,750       $123,750-$190,250        5.2%
+
+ Practice Manager                $119,250-$164,750       $125,000-$173,500        5.1%
+
+ Project Manager/Senior Consultant         $ 98,750-$144,250       $100,750-$154,250        4.9%
+
+ Staff Consultant                $ 77,500-$108,750       $ 79,250-$116,250        5.0%
+
+ Senior IT Auditor               $111,750-$155,500       $116,000-$164,250        4.9%
+
+ IT Auditor                      $ 94,500-$134,500       $ 95,000-$144,750        4.7%
+
+ Title                       2015                     2016            Change
+
+ Data/Database Administration (b)
+
+ Big Data Engineer               $119,250-$168,250       $129,500-$183,500        8.9%
+ Database Manager                $112,250-$160,250       $118,000-$170,500        5.9%
+
+ Database Developer              $ 98,000-$144,750       $103,250-$153,250        5.7%
+
+ Database Administrator          $ 91,000-$134,750       $ 95,750-$142,750        5.6%
+ Data Analyst/Report Writer      $ 70,750-$108,250       $ 74,500-$114,500        5.6%
+
+ Data Architect                  $119,750-$164,750       $127,250-$175,500        6.4%
+
+ Data Modeler                    $101,750-$145,250       $106,750-$155,500        6.2%
+
+ Data Scientist                  $103,000-$138,250       $109,000-$153,750        8.9%
+ Data Warehouse Manager          $119,750-$163,000       $123,750-$172,000        4.6%
+
+ Data Warehouse Analyst          $102,500-$142,500       $105,000-$152,000        4.9%
+
+Business Intelligence Analyst   $108,500-$153,000       $113,750-$164,000        6.2%
+
+Electronic Data Interchange (EDI) Specialist                                 $ 74,750-$108,250       $ 76,500-$115,500        4.9%
+
+Portal Administrator            $ 92,750-$127,250       $ 94,000-$134,250        3.8%
+
+ Title                       2015                     2016            Change
+
+ Quality Assurance (QA) & Testing (c)
+
+ QA Engineer – Manual            $ 63,750-$ 88,250       $ 64,750-$ 91,500        2.8%
+
+ QA Engineer – Automated         $ 74,250-$103,750       $ 74,750-$109,000        3.2%
+
+ QA/Testing Manager              $ 90,000-$122,500       $ 93,750-$127,500        4.1%
+
+ QA Associate/Analyst            $ 62,000-$ 97,500       $ 65,000-$100,250        3.6%
+
+
+
+(b)Add the percentage below, based on national  (c)Add the percentage below, based on national
+averages, to IT salaries for the following skills:
+                                                averages, to IT salaries for the following skills:
+ETL skills.............................6%.......Performance testing (e.g., Mercury
+Microsoft SQL Server database.........10%        Interactive Tools) skills............5%........
+Oracle database sk.....................7%........
+
+
+                                                                                       %
+              Title                       2015                      2016            Change
+
+ Web Development (d)
+ Senior Web Developer              $104,500-$144,250         $111,250-$154,000        6.6%
+
+ Web Developer                     $ 73,500-$122,000         $ 78,500-$129,500        6.4%
+
+ Front-End Web Developer           $ 72,500-$107,500         $ 79,750-$111,250        6.1%
+
+ Web Administrator                 $ 66,500-$102,000         $ 68,750-$106,250        3.9%
+ Web Designer                      $ 64,000-$105,500         $ 67,000-$112,250        5.8%
+
+ E-Commerce Analyst                $ 84,250-$121,500         $ 88,000-$129,500        5.7%
+
+ Title                       2015                     2016            Change
+
+ Networking/Telecommunications (e)
+
+ Network Architect                 $115,000-$165,250         $120,000-$175,000        5.3%
+
+ Network Manager                   $ 98,000-$137,250         $100,000-$146,750        4.9%
+ Network Engineer                  $ 90,750-$131,250         $ 96,000-$138,750        5.7%
+
+ Wireless Network Engineer         $ 99,000-$137,500         $108,750-$150,750        9.7%
+
+ Network Administrator             $ 71,250-$105,750         $ 76,250-$112,000        6.4%
+
+ Pre-Sales Engineer/Technical Engineer     $ 86,250-$125,750         $ 90,750-$132,750        5.4%
+
+ Telecommunications Manager        $ 86,000-$118,500         $ 88,500-$125,000        4.4%
+
+ Telecommunications Specialist     $ 59,000-$ 91,250         $ 61,000-$ 95,500        4.2%
+
+ Title                       2015                     2016            Change
+
+ Operations
+
+ Manager                           $ 65,500-$ 93,500         $ 66,250-$ 96,250        2.2%
+
+ Computer Operator                 $ 34,750-$ 48,000         $ 35,000-$ 48,750        1.2%
+ Mainframe Systems Programmer      $ 61,500-$ 85,000         $ 62,750-$ 86,500        1.9%
+
+
+
+                                                  PHP development skil.....................8%.......
+(d)Add the percentage below, based on national
+averages, to IT salaries for the following skills:Python skil..............................6%............
+AJAX (Asynchronous JavaScript and XML)            Ruby on Rails sk.........................6%.........
+ development skil........................6%........harePoint ski...........................9%..........
+                                                  Virtualization s.........................8%.........
+ASP development ski......................5%.......Web services development sk..............8%....
+C# development skil......................8%.......
+ColdFusion development ski...............4%....   (e)Add the percentage below, based on national
+Content management system (CMS)sk........5%       averages, to IT salaries for the following skills:
+DCOM/COM/ActiveX development skills......5%
+                                                  Cisco network administration skills......9%..
+Java development skills .................9%.....  Linux/Unix administration ...............8%....
+Java EE/J2EE development sk..............8%...    Voice over Internet Protocol
+LAMP (Linux, Apache, MySQL and                      (VoIP) administration skills...........5%......
+ Perl/PHP/Python) skills.................8%......
+.NET development ski.....................8%...... Windows 7 skil...........................5%.........
+
+
+                                                                                       %
+             Title                        2015                      2016            Change
+
+ Security (f)
+
+ Data Security Analyst             $106,250-$149,000         $113,500-$160,000        7.1%
+
+ Systems Security Administrator    $100,000-$140,250         $105,500-$149,500        6.1%
+
+ Network Security Administrator    $ 99,250-$138,500         $103,250-$147,000        5.3%
+
+ Network Security Engineer         $105,000-$141,500         $110,250-$152,750        6.7%
+
+ Information Systems Security Manager                                   $122,250-$171,250         $129,750-$182,000        6.2%
+
+ Software Development (g)
+
+ Product Manager                   $101,750-$145,000         $105,750-$152,750        4.8%
+
+ Software Engineer                 $ 96,000-$147,250         $103,000-$156,250        6.6%
+
+ Software Developer                $ 85,500-$136,250         $ 91,000-$145,250        6.5%
+
+ Title                       2015                     2016            Change
+
+ Technical Services, Help Desk & Technical Support (h)
+
+ Manager                           $ 80,500-$114,750         $ 84,500-$121,000        5.2%
+
+ Desktop Support Analyst           $ 52,000-$ 77,000         $ 54,250-$ 80,500        4.5%
+
+ Systems Administrator             $ 65,750-$100,500         $ 67,500-$107,500        5.3%
+
+ Systems Engineer                  $ 80,250-$117,500         $ 85,000-$124,000        5.7%
+
+ Messaging Administrator           $ 72,500-$105,000         $ 74,000-$111,750        4.6%
+
+ Help Desk Tier 3                  $ 55,250-$ 74,000         $ 59,500-$ 77,750        6.2%
+
+ Help Desk Tier 2                  $ 43,750-$ 58,000         $ 45,250-$ 61,750        5.2%
+
+ Help Desk Tier 1                  $ 34,000-$ 47,250         $ 35,000-$ 50,250        4.9%
+
+ Instructor/Trainer                $ 54,250-$ 87,250         $ 56,250-$ 90,000        3.4%
+
+ PC Technician                     $ 33,750-$ 49,750         $ 36,000-$ 51,750        5.1%
+
+ Business Continuity Analyst       $ 92,500-$132,250         $ 97,250-$140,000        5.6%
+
+
+
+(f)Add the percentage below, based on national    Java development skil....................9%........
+averages, to IT salaries for the following skills:Java EE/J2EE development ski.............8%....
+                                                  .NET development skil....................8%.......
+Certified Information Systems Security
+ Professional (CISS......................6%........HP development skil.....................8%.......
+Check Point Firewall administration......7%.      Web services development ski.............8%.....
+Cisco network administration s...........9%...
+                                                  (h) Add the percentage below, based on national
+Linux/Unix administration ...............8%....   averages, to IT salaries for the following skills:
+                                                  Basis administration skills..............5%.......
+(g)Add the percentage below, based on national    Cisco network administration s...........9%...
+averages, to IT salaries for the following skills:
+ASP development skills...................5%........DI certificati..........................5%..........
+C# development skil......................8%.......Linux/Unix administration s..............8%.....
+                                                  Virtualization s.........................8%.........
+C++ development skill....................5%...... Windows 7 skill..........................5%..........
+DCOM/COM/ActiveX development skills......5%
+Hadoop skill.............................7%...........
