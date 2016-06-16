@@ -63,7 +63,7 @@ csv.each do |row|
     attributes = {grade: arrayRow[0][1],
       min: arrayRow[1][1].to_d,
       max: arrayRow[2][1].to_d,
-      supplement: (arrayRow[3][1].to_f * 100 + 100).to_d,
+      supplement_coefficient: (arrayRow[3][1].to_f * 100 + 100).to_d,
       location_id: id}
     PublicSectorSpecialPayJob.create(attributes)
   end
