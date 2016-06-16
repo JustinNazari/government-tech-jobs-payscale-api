@@ -20,6 +20,7 @@ lines.each_with_index do |line, index|
 end
 end
 
+<<<<<<< HEAD
 csv_text = File.read('Locations.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|
@@ -33,3 +34,16 @@ csv_GS.each do |row|
 end
 
 # Location.find_by(city: "Boston, MA").id == location_id
+=======
+locations = IO.readlines('locations.txt')
+current_state = ""
+locations.each do |line|
+  arr = line.split(" ")
+  if !arr.empty? && arr.first == arr.first.upcase
+    current_state = arr.join(" ").titleize
+  elsif !arr.empty?
+    city = arr.reject {|word| word.include?(".")}.join(" ")
+    Location.create(city: city, private_sector_coefficient: arr.last.to_f, state: current_state)
+  end
+end
+>>>>>>> 7db0a110319c0c8c67c1a0f27e9cd9b3a702d8f8

@@ -17,9 +17,10 @@ ActiveRecord::Schema.define(version: 20160616040808) do
   enable_extension "plpgsql"
 
   create_table "locations", force: :cascade do |t|
+    t.decimal "private_sector_coefficient"
+    t.decimal "public_sector_coefficient"
     t.string  "city"
-    t.decimal "gov_locality"
-    t.decimal "priv_locality"
+    t.string  "state"
   end
 
   create_table "private_sector_jobs", force: :cascade do |t|
