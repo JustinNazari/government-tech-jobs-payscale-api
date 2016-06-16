@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160616040808) do
+ActiveRecord::Schema.define(version: 20160616142038) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -49,5 +49,14 @@ ActiveRecord::Schema.define(version: 20160616040808) do
     t.string "name"
   end
 
+<<<<<<< HEAD
   add_foreign_key "public_sector_special_pay_jobs", "locations"
+=======
+  create_table "skills", force: :cascade do |t|
+    t.integer "section_id"
+    t.decimal "skill_coefficient"
+    t.string  "name"
+  end
+
+>>>>>>> 7a5f3b053655630d79c60beeb8cc6da543f48a6b
 end

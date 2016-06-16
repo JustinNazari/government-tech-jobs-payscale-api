@@ -68,3 +68,18 @@ csv.each do |row|
     PublicSectorSpecialPayJob.create(attributes)
   end
 end
+
+skills = IO.readlines('skills.txt')
+current_section = ""
+skills.each do |line|
+  arr = line.split(" ")
+  if !arr.empty? && arr.last.include?("(")
+    arr.pop
+    current_section = Section.find_by(name: arr.join(" "))
+  elsif !arr.empty?
+    str = line.tr(".","").split(" ")
+    skill_coefficient = 1 + (str.pop.tr("%", "").to_i)/100
+    name = str.join(" ")
+    Skill.create(name: name, skill_coefficient: skill_coefficient, section_id: current_section.id)
+  end
+end
