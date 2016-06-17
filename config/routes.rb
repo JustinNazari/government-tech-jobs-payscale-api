@@ -1,20 +1,21 @@
 Rails.application.routes.draw do
   namespace :api do
     namespace :v1 do
-      namespace :salaries do
-        resources :public do
-          resources :general, except: [:new, :edit]
-          resources :special, except: [:new, :edit]
+      namespace :salaries, only: [:index] do
+        namespace :public do
+          resources :general, only: [:index] # belongs to all
+          resources :special, only: [:index] # belongs to all
         end
-
-        resources :private do
-          resources :categories, except: [:new, :edit] do
-            resources :positions, except: [:new, :edit]
-            resources :skills, except: [:new, :edit]
+        namespace :private do
+          resources :categories, only: [:index] do # belongs to all
+            resources :positions, only: [:index]
+            resources :skills, only: [:index]
           end
         end
-        resources :locations, except: [:new, :edit]
       end
+      resources :locations, only: [:index] do
+      #   resources :all_salaries, only: [:index]
+      # end
     end
   end
 end

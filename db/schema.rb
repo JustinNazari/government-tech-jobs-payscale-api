@@ -11,10 +11,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160616152613) do
+ActiveRecord::Schema.define(version: 20160617201806) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "categories", force: :cascade do |t|
+    t.string "name"
+  end
+
+  create_table "general", force: :cascade do |t|
+    t.integer "grade"
+    t.decimal "min"
+    t.decimal "max"
+  end
 
   create_table "locations", force: :cascade do |t|
     t.decimal "private_sector_coefficient"
@@ -30,30 +40,20 @@ ActiveRecord::Schema.define(version: 20160616152613) do
     t.integer "section_id"
   end
 
-  create_table "public_sector_jobs", force: :cascade do |t|
-    t.integer "grade"
-    t.decimal "min"
-    t.decimal "max"
-  end
-
-  create_table "public_sector_special_pay_jobs", force: :cascade do |t|
-    t.integer "grade"
-    t.decimal "min"
-    t.decimal "max"
-    t.decimal "supplement_coefficient"
-    t.integer "location_id"
-    t.index ["location_id"], name: "index_public_sector_special_pay_jobs_on_location_id", using: :btree
-  end
-
-  create_table "sections", force: :cascade do |t|
-    t.string "name"
-  end
-
   create_table "skills", force: :cascade do |t|
     t.integer "section_id"
     t.decimal "skill_coefficient"
     t.string  "name"
   end
 
-  add_foreign_key "public_sector_special_pay_jobs", "locations"
+  create_table "special", force: :cascade do |t|
+    t.integer "grade"
+    t.decimal "min"
+    t.decimal "max"
+    t.decimal "supplement_coefficient"
+    t.integer "location_id"
+    t.index ["location_id"], name: "index_special_on_location_id", using: :btree
+  end
+
+  add_foreign_key "special", "locations"
 end
