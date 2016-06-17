@@ -78,7 +78,7 @@ skills.each do |line|
     current_section = Section.find_by(name: arr.join(" "))
   elsif !arr.empty?
     str = line.tr(".","").split(" ")
-    skill_coefficient = 1 + (str.pop.tr("%", "").to_i)/100
+    skill_coefficient = 1.0 + (str.pop.tr("%", "").to_f)/100.00
     name = str.join(" ")
     Skill.create(name: name, skill_coefficient: skill_coefficient, section_id: current_section.id)
   end
