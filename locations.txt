@@ -2,7 +2,7 @@
       ALABAMA
       Birmingham ...........   95.0
       Huntsville ............. 93.0
-      Mobile. . . . . . . . .  86.0
+      Mobile . . . . . . . . .  86.0
 
       ARIZONA
       Phoenix .............   112.0
@@ -35,7 +35,7 @@
       Fort Collins ...........  95.0
       Greeley ..............    86.0
       Loveland .............    92.0
-      Pueblo. . . . . . . . . . . . . . . 80.0
+      Pueblo . . . . . . . . . . . . . . . 80.0
 
       CONNECTICUT
       Hartford ............   116.5
@@ -53,7 +53,7 @@
      Melbourne ............     90.5
      Miami/Fort Lauderdale .. 107.0
      Orlando .............      99.5
-     St. Petersburg. . . . . . . . . . 96.5
+     St. Petersburg . . . . . . . . . . 96.5
 
      Tampa ...............      98.0
      West Palm Beach ......   100.5
@@ -115,7 +115,7 @@
 
      Bloomington .........    105.5
      Duluth ...............     79.6
-     Minneapolis. . . . . . . . . . 106.0
+     Minneapolis . . . . . . . . . . 106.0
      Rochester ...........    100.5
      St. Cloud .............    82.0
      St. Paul .............   102.0
@@ -138,7 +138,7 @@
 
      NEW HAMPSHIRE
 
-     Manchester/Nashua. . . . 112.0
+     Manchester/Nashua . . . . 112.0
 
      NEW JERSEY
      Mount Laurel .........   115.0
@@ -208,7 +208,7 @@
      Fort Worth ...........   107.5
      Houston ............     107.5
      Midland/Odessa ......    115.0
-     San Antonio. . . . . . . . . . 100.0
+     San Antonio . . . . . . . . . . 100.0
 
      UTAH
      Salt Lake City ......... 101.0
