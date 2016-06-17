@@ -7,7 +7,7 @@ module Api
 
       def show
         section = Section.find(params[:id])
-        jobs = section.all_jobs_chart_data
+        # jobs = section.all_jobs_chart_data
         render json: section
       end
     end

@@ -10,6 +10,6 @@ class Section < ApplicationRecord
       chart_data << min_hash
       chart_data << max_hash
     end
-    chart_data.to_json
+    chart_data
   end
 end
