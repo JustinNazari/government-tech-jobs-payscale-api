@@ -4,6 +4,10 @@ module Api
       def index
         render json: Skill.includes(:section), include: ['section']
       end
+      def show
+        skill = Skill.find(params[:id])
+        render json: skill
+      end
     end
   end
 end
