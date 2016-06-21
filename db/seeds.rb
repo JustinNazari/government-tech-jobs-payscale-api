@@ -80,29 +80,40 @@ def compare_pub_coefficients(locality_pay, salary, location, result) # for same 
   end
 end
 
-def create_public_special_salaries(results)
-  results.each do |result|
-    location = Location.find_by(city: result[:city])
-    base_pay = PublicSectorJob.find_by(grade: result[:grade])
-    min_locality_pay = base_pay.min
-    max_locality_pay = base_pay.max
-    result_hash ||= {
-      location: location,
-      min_supplement_coefficient: compare_pub_coefficients(min_locality_pay, result[:min], location, result),
-      max_supplement_coefficient: compare_pub_coefficients(max_locality_pay, result[:max], location, result),
-      min_base_pay: base_pay.min,
-      max_base_pay: base_pay.max,
-      grade: result[:grade]
-    }
-    CombinedPublicSalary.create(result_hash)
+def create_public_salaries(result)
+  public_locations = Location.all.where("public_sector_coefficient IS NOT NULL")
+  location = public_locations.find_by(city: result[:city])
+  grade = 5
+  if location
+    while grade < 16
+      record = CombinedPublicSalary.find_or_create_by(location: location, grade: grade)
+      record.city = location.city
+      record.state = location.state
+      base_pay = PublicSectorJob.find_by(grade: grade)
+      if result[:grade].to_i == grade
+        record.min = result[:min]
+        record.max = result[:max]
+      else
+        record.min = base_pay.min * (location.public_sector_coefficient/100)
+        record.max = base_pay.max * (location.public_sector_coefficient/100)
+      end
+      record.save
+      grade+=1
+    end
   end
 end
+
 
 # call methods to create seeds
 
 public_base_pay
 results = parse_public_special_pay
-create_public_special_salaries(results)
+PublicSectorJob.all.each do |job|
+  results.each do |result|
+    create_public_salaries(result)
+  end
+end
+
 
 
 skills = IO.readlines('skills.txt')
