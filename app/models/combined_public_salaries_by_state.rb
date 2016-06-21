@@ -1,0 +1,2 @@
+class CombinedPublicSalariesByState < ApplicationRecord
+end
