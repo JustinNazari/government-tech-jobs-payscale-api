@@ -1,5 +1,4 @@
 require 'csv'
-require 'pry-rails'
 
 lines = IO.readlines('jobs.txt')
   lines.each_with_index do |line, index|
@@ -113,7 +112,6 @@ PublicSectorJob.all.each do |job|
     create_public_salaries(result)
   end
 end
-
 
 
 skills = IO.readlines('skills.txt')
