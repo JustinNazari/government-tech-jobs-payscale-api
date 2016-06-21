@@ -2,27 +2,27 @@
 
  Administration
 
- Chief Information Officer (CIO)   $157,000-$262,500       $172,000-$268,250        4.9%
+ Chief Information Officer (CIO)   $157,000-$262,500       $ 172,000-$268,250        4.9%
 
- Chief Technology Officer (CTO)    $137,500-$220,250       $147,500-$229,000        5.2%
+ Chief Technology Officer (CTO)    $137,500-$220,250       $ 147,500-$229,000        5.2%
 
- Chief Security Officer (CSO)      $134,250-$204,750       $140,250-$222,500        7.0%
- Vice President of Information Technology                        $138,000-$210,250       $141,000-$225,000        5.1%
+ Chief Security Officer (CSO)      $134,250-$204,750       $ 140,250-$222,500        7.0%
+ Vice President of Information Technology                        $ 138,000-$210,250       $141,000-$225,000        5.1%
 
- Technology Director               $118,750-$174,000       $122,750-$185,000        5.1%
+ Technology Director               $118,750-$174,000       $ 122,750-$185,000        5.1%
 
- Information Technology Manager    $101,750-$150,750       $105,750-$159,000        4.9%
+ Information Technology Manager    $101,750-$150,750       $ 105,750-$159,000        4.9%
 
  Title                       2015                     2016            Change
 
  Applications Development (a)
 
- Manager                           $103,250-$150,750       $105,750-$160,500        4.8%
+ Manager                           $103,250-$150,750       $ 105,750-$160,500        4.8%
  Project Manager                   $ 91,250-$139,250       $ 95,250-$146,500        4.9%
 
  Systems Analyst                   $ 79,500-$114,500       $ 81,750-$121,000        4.5%
 
- Applications Architect            $115,750-$159,500       $121,250-$171,750        6.4%
+ Applications Architect            $115,750-$159,500       $ 121,250-$171,750        6.4%
  Business Systems Analyst          $ 79,250-$116,500       $ 84,000-$122,000        5.2%
 
  CRM Business Analyst              $ 84,500-$116,750       $ 87,500-$126,000        6.1%
@@ -34,12 +34,12 @@
 
  ERP Technical/Functional Analyst  $ 94,750-$132,000       $ 98,000-$140,750        5.3%
 
- ERP Technical Developer           $ 99,750-$136,750       $100,750-$148,500        5.4%
- Lead Applications Developer       $106,250-$148,250       $110,750-$160,750        6.7%
+ ERP Technical Developer           $ 99,750-$136,750       $ 100,750-$148,500        5.4%
+ Lead Applications Developer       $106,250-$148,250       $ 110,750-$160,750        6.7%
 
- Mobile Applications Developer     $107,500-$161,500       $115,250-$175,750        8.2%
+ Mobile Applications Developer     $107,500-$161,500       $ 115,250-$175,750        8.2%
 
- Technical Writer                  $ 55,000-$ 85,250       $ 55,500-$ 87,250        1.8%
+ Technical Writer                  $ 55,000-$ 85,250       $ 55,500-$87,250        1.8%
 
 
 
@@ -59,15 +59,15 @@ Hyperion ski............................6%...........
 
  Consulting & Systems Integration
 
- Director                        $119,750-$178,750       $123,750-$190,250        5.2%
+ Director                        $119,750-$178,750       $ 123,750-$190,250        5.2%
 
- Practice Manager                $119,250-$164,750       $125,000-$173,500        5.1%
+ Practice Manager                $119,250-$164,750       $ 125,000-$173,500        5.1%
 
- Project Manager/Senior Consultant         $ 98,750-$144,250       $100,750-$154,250        4.9%
+ Project Manager/Senior Consultant         $ 98,750-$144,250       $ 100,750-$154,250        4.9%
 
  Staff Consultant                $ 77,500-$108,750       $ 79,250-$116,250        5.0%
 
- Senior IT Auditor               $111,750-$155,500       $116,000-$164,250        4.9%
+ Senior IT Auditor               $111,750-$155,500       $ 116,000-$164,250        4.9%
 
  IT Auditor                      $ 94,500-$134,500       $ 95,000-$144,750        4.7%
 
@@ -75,24 +75,24 @@ Hyperion ski............................6%...........
 
  Data/Database Administration (b)
 
- Big Data Engineer               $119,250-$168,250       $129,500-$183,500        8.9%
- Database Manager                $112,250-$160,250       $118,000-$170,500        5.9%
+ Big Data Engineer               $119,250-$168,250       $ 129,500-$183,500        8.9%
+ Database Manager                $112,250-$160,250       $ 118,000-$170,500        5.9%
 
- Database Developer              $ 98,000-$144,750       $103,250-$153,250        5.7%
+ Database Developer              $ 98,000-$144,750       $ 103,250-$153,250        5.7%
 
  Database Administrator          $ 91,000-$134,750       $ 95,750-$142,750        5.6%
  Data Analyst/Report Writer      $ 70,750-$108,250       $ 74,500-$114,500        5.6%
 
- Data Architect                  $119,750-$164,750       $127,250-$175,500        6.4%
+ Data Architect                  $119,750-$164,750       $ 127,250-$175,500        6.4%
 
- Data Modeler                    $101,750-$145,250       $106,750-$155,500        6.2%
+ Data Modeler                    $101,750-$145,250       $ 106,750-$155,500        6.2%
 
- Data Scientist                  $103,000-$138,250       $109,000-$153,750        8.9%
- Data Warehouse Manager          $119,750-$163,000       $123,750-$172,000        4.6%
+ Data Scientist                  $103,000-$138,250       $ 109,000-$153,750        8.9%
+ Data Warehouse Manager          $119,750-$163,000       $ 123,750-$172,000        4.6%
 
- Data Warehouse Analyst          $102,500-$142,500       $105,000-$152,000        4.9%
+ Data Warehouse Analyst          $102,500-$142,500       $ 105,000-$152,000        4.9%
 
-Business Intelligence Analyst   $108,500-$153,000       $113,750-$164,000        6.2%
+Business Intelligence Analyst   $108,500-$153,000       $ 113,750-$164,000        6.2%
 
 Electronic Data Interchange (EDI) Specialist                                 $ 74,750-$108,250       $ 76,500-$115,500        4.9%
 
@@ -102,7 +102,7 @@ Portal Administrator            $ 92,750-$127,250       $ 94,000-$134,250       
 
  Quality Assurance (QA) & Testing (c)
 
- QA Engineer – Manual            $ 63,750-$ 88,250       $ 64,750-$ 91,500        2.8%
+ QA Engineer – Manual            $ 63,750-$ 88,250       $ 64,750-$91,500        2.8%
 
  QA Engineer – Automated         $ 74,250-$103,750       $ 74,750-$109,000        3.2%
 
@@ -124,7 +124,7 @@ Oracle database sk.....................7%........
               Title                       2015                      2016            Change
 
  Web Development (d)
- Senior Web Developer              $104,500-$144,250         $111,250-$154,000        6.6%
+ Senior Web Developer              $104,500-$144,250         $ 111,250-$154,000        6.6%
 
  Web Developer                     $ 73,500-$122,000         $ 78,500-$129,500        6.4%
 
@@ -139,12 +139,12 @@ Oracle database sk.....................7%........
 
  Networking/Telecommunications (e)
 
- Network Architect                 $115,000-$165,250         $120,000-$175,000        5.3%
+ Network Architect                 $115,000-$165,250         $ 120,000-$175,000        5.3%
 
- Network Manager                   $ 98,000-$137,250         $100,000-$146,750        4.9%
+ Network Manager                   $ 98,000-$137,250         $ 100,000-$146,750        4.9%
  Network Engineer                  $ 90,750-$131,250         $ 96,000-$138,750        5.7%
 
- Wireless Network Engineer         $ 99,000-$137,500         $108,750-$150,750        9.7%
+ Wireless Network Engineer         $ 99,000-$137,500         $ 108,750-$150,750        9.7%
 
  Network Administrator             $ 71,250-$105,750         $ 76,250-$112,000        6.4%
 
@@ -152,16 +152,16 @@ Oracle database sk.....................7%........
 
  Telecommunications Manager        $ 86,000-$118,500         $ 88,500-$125,000        4.4%
 
- Telecommunications Specialist     $ 59,000-$ 91,250         $ 61,000-$ 95,500        4.2%
+ Telecommunications Specialist     $ 59,000-$ 91,250         $ 61,000-$95,500        4.2%
 
  Title                       2015                     2016            Change
 
  Operations
 
- Manager                           $ 65,500-$ 93,500         $ 66,250-$ 96,250        2.2%
+ Manager                           $ 65,500-$ 93,500         $ 66,250-$96,250        2.2%
 
- Computer Operator                 $ 34,750-$ 48,000         $ 35,000-$ 48,750        1.2%
- Mainframe Systems Programmer      $ 61,500-$ 85,000         $ 62,750-$ 86,500        1.9%
+ Computer Operator                 $ 34,750-$ 48,000         $ 35,000-$48,750        1.2%
+ Mainframe Systems Programmer      $ 61,500-$ 85,000         $ 62,750-$86,500        1.9%
 
 
 
@@ -189,13 +189,13 @@ LAMP (Linux, Apache, MySQL and                      (VoIP) administration skills
 
  Security (f)
 
- Data Security Analyst             $106,250-$149,000         $113,500-$160,000        7.1%
+ Data Security Analyst             $106,250-$149,000         $ 113,500-$160,000        7.1%
 
- Systems Security Administrator    $100,000-$140,250         $105,500-$149,500        6.1%
+ Systems Security Administrator    $100,000-$140,250         $ 105,500-$149,500        6.1%
 
- Network Security Administrator    $ 99,250-$138,500         $103,250-$147,000        5.3%
+ Network Security Administrator    $ 99,250-$138,500         $ 103,250-$147,000        5.3%
 
- Network Security Engineer         $105,000-$141,500         $110,250-$152,750        6.7%
+ Network Security Engineer         $105,000-$141,500         $ 110,250-$152,750        6.7%
 
  Information Systems Security Manager                                   $122,250-$171,250         $129,750-$182,000        6.2%
 
@@ -203,9 +203,9 @@ LAMP (Linux, Apache, MySQL and                      (VoIP) administration skills
 
  Software Development (g)
 
- Product Manager                   $101,750-$145,000         $105,750-$152,750        4.8%
+ Product Manager                   $101,750-$145,000         $ 105,750-$152,750        4.8%
 
- Software Engineer                 $ 96,000-$147,250         $103,000-$156,250        6.6%
+ Software Engineer                 $ 96,000-$147,250         $ 103,000-$156,250        6.6%
 
  Software Developer                $ 85,500-$136,250         $ 91,000-$145,250        6.5%
 
@@ -215,7 +215,7 @@ LAMP (Linux, Apache, MySQL and                      (VoIP) administration skills
 
  Manager                           $ 80,500-$114,750         $ 84,500-$121,000        5.2%
 
- Desktop Support Analyst           $ 52,000-$ 77,000         $ 54,250-$ 80,500        4.5%
+ Desktop Support Analyst           $ 52,000-$ 77,000         $ 54,250-$80,500        4.5%
 
  Systems Administrator             $ 65,750-$100,500         $ 67,500-$107,500        5.3%
 
@@ -223,15 +223,15 @@ LAMP (Linux, Apache, MySQL and                      (VoIP) administration skills
 
  Messaging Administrator           $ 72,500-$105,000         $ 74,000-$111,750        4.6%
 
- Help Desk Tier 3                  $ 55,250-$ 74,000         $ 59,500-$ 77,750        6.2%
+ Help Desk Tier 3                  $ 55,250-$ 74,000         $ 59,500-$77,750        6.2%
 
- Help Desk Tier 2                  $ 43,750-$ 58,000         $ 45,250-$ 61,750        5.2%
+ Help Desk Tier 2                  $ 43,750-$ 58,000         $ 45,250-$61,750        5.2%
 
- Help Desk Tier 1                  $ 34,000-$ 47,250         $ 35,000-$ 50,250        4.9%
+ Help Desk Tier 1                  $ 34,000-$ 47,250         $ 35,000-$50,250        4.9%
 
- Instructor/Trainer                $ 54,250-$ 87,250         $ 56,250-$ 90,000        3.4%
+ Instructor/Trainer                $ 54,250-$ 87,250         $ 56,250-$90,000        3.4%
 
- PC Technician                     $ 33,750-$ 49,750         $ 36,000-$ 51,750        5.1%
+ PC Technician                     $ 33,750-$ 49,750         $ 36,000-$51,750        5.1%
 
  Business Continuity Analyst       $ 92,500-$132,250         $ 97,250-$140,000        5.6%
 
