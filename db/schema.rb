@@ -11,10 +11,27 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160616152613) do
+ActiveRecord::Schema.define(version: 20160621134250) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "combined_public_salaries", force: :cascade do |t|
+    t.integer "grade"
+    t.decimal "min"
+    t.decimal "max"
+    t.integer "location_id"
+    t.string  "city"
+    t.string  "state"
+    t.index ["location_id"], name: "index_combined_public_salaries_on_location_id", using: :btree
+  end
+
+  create_table "combined_public_salaries_by_states", force: :cascade do |t|
+    t.decimal "min"
+    t.decimal "max"
+    t.string  "city"
+    t.string  "state"
+  end
 
   create_table "locations", force: :cascade do |t|
     t.decimal "private_sector_coefficient"
@@ -55,5 +72,6 @@ ActiveRecord::Schema.define(version: 20160616152613) do
     t.string  "name"
   end
 
+  add_foreign_key "combined_public_salaries", "locations"
   add_foreign_key "public_sector_special_pay_jobs", "locations"
 end

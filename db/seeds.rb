@@ -33,7 +33,7 @@ locations = IO.readlines('locations.txt')
     end
 end
 
-csv_text = File.read('Public locality.csv')
+csv_text = File.read('Locality percentages.csv')
 csv = CSV.parse(csv_text, :headers => true)
 csv.each do |row|
   arrayRow = row.to_a
@@ -46,28 +46,75 @@ csv.each do |row|
   end
 end
 
-csv_text_GS = File.read('GS2016.csv')
-csv_GS = CSV.parse(csv_text_GS, :headers => true)
-csv_GS.each do |row|
-  PublicSectorJob.create!(row.to_hash)
-end
-
-csv_text = File.read('Special Pay by Location 2016.csv')
-csv = CSV.parse(csv_text, :headers => true)
-csv.each do |row|
-  arrayRow = row.to_a
-  city_and_state = arrayRow[4].split(",")
-  city = city_and_state[0][1].split(",")[0]
-  if Location.find_by(city: city)
-    id = Location.find_by(city: city).id
-    attributes = {grade: arrayRow[0][1],
-      min: arrayRow[1][1].to_d,
-      max: arrayRow[2][1].to_d,
-      supplement_coefficient: (arrayRow[3][1].to_f * 100 + 100).to_d,
-      location_id: id}
-    PublicSectorSpecialPayJob.create(attributes)
+def public_base_pay
+  csv_text_GS = File.read('GS2016.csv')
+  csv_GS = CSV.parse(csv_text_GS, :headers => true)
+  csv_GS.each do |row|
+    PublicSectorJob.create!(row.to_hash)
   end
 end
+
+def parse_public_special_pay
+  csv_text = File.read('Special Pay by Location 2016.csv')
+  csv = CSV.parse(csv_text, :headers => true)
+  results = []
+  csv.each do |row|
+    arrayRow = row.to_a
+    results_hash ||= {
+      grade: arrayRow[0][1],
+      city: arrayRow[4][1].split(",")[0],
+      state: arrayRow[4][1].split(",")[1].strip!,
+      min: arrayRow[1][1].to_d,
+      max: arrayRow[2][1].to_d,
+      supplement_coefficient: (arrayRow[3][1].to_f * 100 + 100).to_d }
+    results << results_hash
+  end
+  results
+end
+
+def compare_pub_coefficients(locality_pay, salary, location, result) # for same grades
+  if salary < locality_pay
+    location.public_sector_coefficient
+  else
+    result[:supplement_coefficient]
+  end
+end
+
+def create_public_salaries(result)
+  public_locations = Location.all.where("public_sector_coefficient IS NOT NULL")
+  location = public_locations.find_by(city: result[:city])
+  grade = 5
+  if location
+    while grade < 16
+      record = CombinedPublicSalary.find_or_create_by(location: location, grade: grade)
+      record.city = location.city
+      record.state = location.state
+      base_pay = PublicSectorJob.find_by(grade: grade)
+      if result[:grade].to_i == grade
+        record.min = result[:min]
+        record.max = result[:max]
+      else
+        record.min = base_pay.min * (location.public_sector_coefficient/100)
+        record.max = base_pay.max * (location.public_sector_coefficient/100)
+      end
+      record.save
+      grade+=1
+    end
+  end
+end
+
+
+# call methods to create seeds
+
+public_base_pay
+results = parse_public_special_pay
+PublicSectorJob.all.each do |job|
+  results.each do |result|
+    create_public_salaries(result)
+  end
+end
+
+
 
 skills = IO.readlines('skills.txt')
 current_section = ""
