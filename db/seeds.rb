@@ -102,6 +102,17 @@ def create_public_salaries(result)
   end
 end
 
+def find_average_salary
+  average = Average.new
+  average.private = PrivateSectorJob.average(:min)
+  pub_av_co = Location.average(:public_sector_coefficient)
+  min_pub_base = PublicSectorJob.find_by(grade: 8).min
+  max_pub_base = PublicSectorJob.find_by(grade: 12).max
+  average.public = ((min_pub_base + max_pub_base)/2) * pub_av_co
+  average.save
+end
+
+
 
 # call methods to create seeds
 
@@ -112,6 +123,7 @@ PublicSectorJob.all.each do |job|
     create_public_salaries(result)
   end
 end
+find_average_salary
 
 
 skills = IO.readlines('skills.txt')
