@@ -9,6 +9,7 @@ Rails.application.routes.draw do
         resources :private_sector_jobs, only: [:index, :show]
         resources :skills, only: [:index, :show]
       end
+      resources :averages, only: [:index]
     end
   end
 end
