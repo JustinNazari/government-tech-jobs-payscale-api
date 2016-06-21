@@ -11,10 +11,15 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160621134250) do
+ActiveRecord::Schema.define(version: 20160621161601) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
+
+  create_table "averages", force: :cascade do |t|
+    t.decimal "private"
+    t.decimal "public"
+  end
 
   create_table "combined_public_salaries", force: :cascade do |t|
     t.integer "grade"
